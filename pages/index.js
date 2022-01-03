@@ -4,7 +4,7 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    // Test heroku
+    // Test ci jenkins
     <div className={styles.container}>
       <Head>
         <title>Created roi doadw</title>
